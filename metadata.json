@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DevSync Community",
+  "description": "A collaborative platform for drafting, testing, and iterating on community-driven projects with multi-modal feedback including voice, video, and AI-powered code analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
